@@ -1,5 +1,5 @@
 <h1>Simulador Bancário!</h1>
-<p>Nesse projeto foi utilizado a linguagem Java. Com o objetivo de criar um sistema de operaçoes bancárias como: saldo/transferências/valor a receber.</p>
+<p>Nesse projeto foi utilizado a linguagem Java,com o objetivo de criar um sistema de operaçoes bancárias como: saldo/transferências/valor a receber.</p>
 <h2>Imagens do projeto</h2>
 <div>
     <img length="500" width="700" src="https://github.com/user-attachments/assets/0c700013-16be-4c9d-ae51-49045bc08ac5"/>
